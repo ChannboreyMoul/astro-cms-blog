@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - docs
+  - test
 description: Some rules & recommendations for creating or adding new posts using
   AstroPaper theme.
 ---
